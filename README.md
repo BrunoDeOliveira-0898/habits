@@ -32,7 +32,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits basicamente é um simples registro das atividades diárias do usuário para monitorar seus hábitos cotidianos.
+O Habits basicamente é uma simples aplicação WEB para o registro das atividades diárias do usuário para monitorar seus hábitos cotidianos.
+
+- [Acesse por aqui](https://brunodeoliveira-0898.github.io/habits/)
 
 ## 🔖 Layout
 
